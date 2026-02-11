@@ -1,10 +1,10 @@
 File Organizer GUI
-------------------------
+------------------
 
 A simple Windows tool with a graphical interface that automatically sorts files in any folder you choose.
 
 Features:
------------
+---------
 
 Easy-to-use GUI – no CMD needed
 
@@ -31,7 +31,7 @@ Does not move the program itself
 Shows a message when finished, including skipped files
 
 How to Use:
----------------
+-----------
 
 Run the .exe file.
 
@@ -44,8 +44,9 @@ The program will sort files automatically.
 No installation required.
 
 Requirements:
-------------------
+-------------
 
 Windows OS
+
 
 No Python installation needed when using the compiled .exe
